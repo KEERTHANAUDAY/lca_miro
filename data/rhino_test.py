@@ -12,11 +12,14 @@ obj = sc.doc.Objects.Find(mesh_guid)
 #mesh = mesh_to_compas(obj.Geometry)
 panel = Panel()
 
-##json load test
-#panel.load_json('C:\Users\ukeer\GitHub\lca_miro\data\jsontest00.json')
-#json_data = panel.json_file
+#json load test
 
 panel.from_rhinomesh(obj.Geometry)
-print(panel)
+panel.load_json('C:\Users\ukeer\GitHub\lca_miro\data\jsontest00.json')
+json_data = panel.json_file
+print(json_data)
+print(type(panel))
+
+
 
 

@@ -8,7 +8,7 @@ mesh_guid = rs.GetObject("Select mesh", rs.filter.mesh)
 obj = sc.doc.Objects.Find(mesh_guid)
 mesh = mesh_to_compas(obj.Geometry)
 
-print(mesh)
+print(type(mesh))
 
 
 
