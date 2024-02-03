@@ -1,0 +1,15 @@
+{
+    "name": "Light Weight Finishing Compound",
+    "company": "CertainTeed, Inc. Saint-Gobain",
+    "product_type": "Skim plaster",
+    "material_type": "Gypsum",
+    "manufacturing_location": "8655 South 187th Street, Kent, WA 98031",
+    "country": "United States",
+    "city": "Kent",
+    "manufacturing_continent": "North America",
+    "product_url": "https://app.2050-materials.com/product/details_designer/certainteed-inc-saint-gobain-light-weight-finishing-compound",
+    "material_facts": {
+        "declared_unit": "m2",
+        "manufacturing": 0.07363
+    }
+}
