@@ -20,7 +20,8 @@ class Panel(Mesh):
         with open(file_path, "w") as json_file:
             json.dump(self.json_file, json_file)
 
-if __name__ =="__main__":
+
+if __name__ == "__main__":
     panel = Panel()
     panel.load_json("lca_miro/data/jsontest00")
     json_data = panel.json_file
