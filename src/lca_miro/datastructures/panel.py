@@ -34,7 +34,7 @@ class Panel(Mesh):
         from compas_rhino.conversions import mesh_to_compas
 
         mesh = mesh_to_compas(obj)
-        return mesh.to_compas(cls)
+        return mesh
 
 
 if __name__ == "__main__":
