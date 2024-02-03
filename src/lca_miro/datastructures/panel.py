@@ -23,6 +23,6 @@ class Panel(Mesh):
 
 if __name__ == "__main__":
     panel = Panel()
-    panel.load_json("lca_miro/data/jsontest00")
+    panel.load_json("lca_miro/data/jsontest00.json")
     json_data = panel.json_file
     print(json_data)
