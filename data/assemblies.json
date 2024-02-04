@@ -1,0 +1,492 @@
+[
+    {
+        "assembly_code": "W1",
+        "assembly_name": "Brick cavity facade with stone wool insulation (255mm)",
+        "materials": [
+            {
+                "assembly_thickness_m": 0.2549,
+                "material_name": "Brick",
+                "material_url": "https://app.2050-materials.com/product/details_designer/egernsund-wienerberger-a-s-yellow-and-sandcoloured-bricks-naturgasbaserede/",
+                "functional_unit": "kg",
+                "density_kg_per_m3": 1710.0,
+                "thickness_m": 0.054,
+                "material_volume_m3": 0.054,
+                "material_quantity_fu_per_m2_of_assembly": 92.34
+            },
+            {
+                "assembly_thickness_m": 0.25489999999999996,
+                "material_name": "Insulation (Stone Wool)",
+                "material_url": "https://app.2050-materials.com/product/details_designer/steinull-stone-wool-insulation-20-75-kg-m3/",
+                "functional_unit": "m2",
+                "density_kg_per_m3": 73.4,
+                "thickness_m": 0.12,
+                "material_volume_m3": 0.12,
+                "material_quantity_fu_per_m2_of_assembly": 1.0
+            },
+            {
+                "assembly_thickness_m": 0.25489999999999996,
+                "material_name": "Plasterboard",
+                "material_url": "https://app.2050-materials.com/product/details_designer/usg-sheetrock-r-ecosmart-panels-firecode-r-30-western-us-9/",
+                "functional_unit": "kg",
+                "density_kg_per_m3": 521.0,
+                "thickness_m": 0.0159,
+                "material_volume_m3": 0.0159,
+                "material_quantity_fu_per_m2_of_assembly": 8.2839
+            },
+            {
+                "assembly_thickness_m": 0.25489999999999996,
+                "material_name": "Plaster",
+                "material_url": "https://app.2050-materials.com/product/details_designer/certainteed-inc-saint-gobain-light-weight-finishing-compound/",
+                "functional_unit": "m2",
+                "density_kg_per_m3": 1170.0,
+                "thickness_m": 0.015,
+                "material_volume_m3": 0.015,
+                "material_quantity_fu_per_m2_of_assembly": 1.0
+            },
+            {
+                "assembly_thickness_m": 0.25489999999999996,
+                "material_name": "Air Cavity",
+                "thickness_m": 0.05
+            }
+        ]
+    },
+    {
+        "assembly_code": "W2",
+        "assembly_name": "CLT frame facade with hemp fibre insulation (460mm)",
+        "materials": [
+            {
+                "assembly_thickness_m": 0.26,
+                "material_name": "CLT Frame",
+                "material_url": "https://app.2050-materials.com/product/details_designer/klh-massivholz-gmbh-klh-cross-laminated-timber-clt/",
+                "functional_unit": "m3",
+                "density_kg_per_m3": 470.0,
+                "thickness_m": 0.2,
+                "material_volume_m3": 0.2,
+                "area_percentage__": 0.33,
+                "material_quantity_fu_per_m2_of_assembly": 0.066
+            },
+            {
+                "assembly_thickness_m": 0.26,
+                "material_name": "Hemp Fibre Insulation",
+                "material_url": "https://app.2050-materials.com/product/details_designer/ekolution-ab-hemp-fibre/",
+                "functional_unit": "m2",
+                "density_kg_per_m3": 330.0,
+                "thickness_m": 0.1,
+                "material_volume_m3": 0.067,
+                "area_percentage__": 0.67,
+                "material_quantity_fu_per_m2_of_assembly": 0.67
+            },
+            {
+                "assembly_thickness_m": 0.26,
+                "material_name": "Hemp Fibre Insulation",
+                "material_url": "https://app.2050-materials.com/product/details_designer/ekolution-ab-hemp-fibre/",
+                "functional_unit": "m2",
+                "density_kg_per_m3": 330.0,
+                "thickness_m": 0.1,
+                "material_volume_m3": 0.067,
+                "area_percentage__": 0.67,
+                "material_quantity_fu_per_m2_of_assembly": 0.67
+            },
+            {
+                "assembly_thickness_m": 0.26,
+                "material_name": "Exterior Lime Plaster",
+                "material_url": "https://app.2050-materials.com/product/details_designer/kalk-a-s-rodvig-slaked-lime/",
+                "functional_unit": "kg",
+                "density_kg_per_m3": 2620.0,
+                "thickness_m": 0.03,
+                "material_volume_m3": 0.03,
+                "material_quantity_fu_per_m2_of_assembly": 78.6
+            },
+            {
+                "assembly_thickness_m": 0.26,
+                "material_name": "Interior Clay Plaster",
+                "material_url": "https://app.2050-materials.com/product/details_designer/clayworks-ltd-clayworks-smooth-clay-plaster/",
+                "functional_unit": "kg",
+                "density_kg_per_m3": 1550.0,
+                "thickness_m": 0.03,
+                "material_volume_m3": 0.03,
+                "material_quantity_fu_per_m2_of_assembly": 46.5
+            }
+        ]
+    },
+    {
+        "assembly_code": "F1",
+        "assembly_name": "Concrete slab with stone wool insulation and ceramic tiles (363mm)",
+        "materials": [
+            {
+                "assembly_thickness_m": 0.363,
+                "material_name": "Screed",
+                "material_url": "https://app.2050-materials.com/product/details_designer/mapei-spa-mapecem-pronto/",
+                "functional_unit": "kg",
+                "density_kg_per_m3": 2650.0,
+                "thickness_m": 0.04,
+                "material_volume_m3": 0.04,
+                "material_quantity_fu_per_m2_of_assembly": 106.0
+            },
+            {
+                "assembly_thickness_m": 0.36300000000000004,
+                "material_name": "Concrete Slab",
+                "material_url": "https://app.2050-materials.com/product/details_designer/kvarnbacken-fresh-concrete/",
+                "functional_unit": "kg",
+                "density_kg_per_m3": 2400.0,
+                "thickness_m": 0.2,
+                "material_volume_m3": 0.2,
+                "area_percentage__": 0.98,
+                "material_quantity_fu_per_m2_of_assembly": 470.4
+            },
+            {
+                "assembly_thickness_m": 0.36300000000000004,
+                "material_name": "Steel Reinforcement",
+                "material_url": "https://app.2050-materials.com/product/details_designer/e-a-smith-as-smith-stal-steel-rebar/",
+                "functional_unit": "kg",
+                "density_kg_per_m3": 7870.0,
+                "material_volume_m3": 0.004,
+                "area_percentage__": 0.02,
+                "material_quantity_fu_per_m2_of_assembly": 31.48
+            },
+            {
+                "assembly_thickness_m": 0.36300000000000004,
+                "material_name": "Insulation (Stone Wool)",
+                "material_url": "https://app.2050-materials.com/product/details_designer/steinull-stone-wool-insulation-20-75-kg-m3/",
+                "functional_unit": "m2",
+                "density_kg_per_m3": 73.4,
+                "thickness_m": 0.1,
+                "material_volume_m3": 0.1,
+                "material_quantity_fu_per_m2_of_assembly": 1.0
+            },
+            {
+                "assembly_thickness_m": 0.36300000000000004,
+                "material_name": "Tile Adhesive",
+                "material_url": "https://app.2050-materials.com/product/details_designer/mapei-spa-kerabond-grey/",
+                "functional_unit": "kg",
+                "density_kg_per_m3": 2400.0,
+                "thickness_m": 0.003,
+                "material_volume_m3": 0.003,
+                "material_quantity_fu_per_m2_of_assembly": 7.2
+            },
+            {
+                "assembly_thickness_m": 0.36300000000000004,
+                "material_name": "Tiles",
+                "material_url": "https://app.2050-materials.com/product/details_designer/marazzi-ceramic-tiles/",
+                "functional_unit": "m2",
+                "density_kg_per_m3": 2250.0,
+                "thickness_m": 0.02,
+                "material_volume_m3": 0.009,
+                "material_quantity_fu_per_m2_of_assembly": 1.0
+            }
+        ]
+    },
+    {
+        "assembly_code": "F2",
+        "assembly_name": "CLT slab with hemp fibre insulation and parquet flooring (390mm)",
+        "materials": [
+            {
+                "assembly_thickness_m": 0.394,
+                "material_name": "CLT Slab",
+                "material_url": "https://app.2050-materials.com/product/details_designer/klh-massivholz-gmbh-klh-cross-laminated-timber-clt/",
+                "functional_unit": "m3",
+                "density_kg_per_m3": 470.0,
+                "thickness_m": 0.28,
+                "material_volume_m3": 0.28,
+                "material_quantity_fu_per_m2_of_assembly": 0.28
+            },
+            {
+                "assembly_thickness_m": 0.394,
+                "material_name": "Hemp Fibre Insulation",
+                "material_url": "https://app.2050-materials.com/product/details_designer/ekolution-ab-hemp-fibre/",
+                "functional_unit": "m2",
+                "density_kg_per_m3": 330.0,
+                "thickness_m": 0.1,
+                "material_volume_m3": 0.075,
+                "area_percentage__": 0.75,
+                "material_quantity_fu_per_m2_of_assembly": 1.0
+            },
+            {
+                "assembly_thickness_m": 0.394,
+                "material_name": "Timber Battens",
+                "material_url": "https://app.2050-materials.com/product/details_designer/stora-enso-kvh-r-structural-timber/",
+                "functional_unit": "m3",
+                "density_kg_per_m3": 562.0,
+                "material_volume_m3": 0.0,
+                "area_percentage__": 0.25,
+                "material_quantity_fu_per_m2_of_assembly": 0.0
+            },
+            {
+                "assembly_thickness_m": 0.394,
+                "material_name": "Parquet Floor",
+                "material_url": "https://app.2050-materials.com/product/details_designer/junckers-industrier-a-s-solid-hardwood-2-strip-parquet-massivt-parketgulv-ask-14-x-129mm-b-3-0-silk-matt-commercial-re/",
+                "functional_unit": "m2",
+                "density_kg_per_m3": 725.0,
+                "thickness_m": 0.014,
+                "material_volume_m3": 0.014,
+                "material_quantity_fu_per_m2_of_assembly": 1.0
+            }
+        ]
+    },
+    {
+        "assembly_code": "R1",
+        "assembly_name": "Pitched concrete roof with stone wool insulation and clay tiles (490mm)",
+        "materials": [
+            {
+                "assembly_thickness_m": 0.494,
+                "material_name": "Clay Tiles",
+                "material_url": "https://app.2050-materials.com/product/details_designer/dachziegelwerke-nelskamp-gmbh-clay-roof-tiles/",
+                "functional_unit": "kg",
+                "density_kg_per_m3": 2150.0,
+                "thickness_m": 0.011,
+                "material_volume_m3": 0.011,
+                "material_quantity_fu_per_m2_of_assembly": 23.65
+            },
+            {
+                "assembly_thickness_m": 0.49400000000000005,
+                "material_name": "Timber Battens",
+                "material_url": "https://app.2050-materials.com/product/details_designer/stora-enso-kvh-r-structural-timber/",
+                "functional_unit": "m3",
+                "density_kg_per_m3": 562.0,
+                "thickness_m": 0.28,
+                "material_volume_m3": 0.07,
+                "area_percentage__": 0.25,
+                "material_quantity_fu_per_m2_of_assembly": 0.07
+            },
+            {
+                "assembly_thickness_m": 0.49400000000000005,
+                "material_name": "Subroof Membrane",
+                "material_url": "https://app.2050-materials.com/product/details_designer/soprema-group-texsalon-r-mp-1-5mm/",
+                "functional_unit": "m2",
+                "density_kg_per_m3": 933.0,
+                "thickness_m": 0.0015,
+                "material_quantity_fu_per_m2_of_assembly": 1.0
+            },
+            {
+                "assembly_thickness_m": 0.49400000000000005,
+                "material_name": "Subroof Membrane",
+                "material_url": "https://app.2050-materials.com/product/details_designer/soprema-group-texsalon-r-mp-1-5mm/",
+                "functional_unit": "m2",
+                "density_kg_per_m3": 933.0,
+                "thickness_m": 0.0015,
+                "material_quantity_fu_per_m2_of_assembly": 1.0
+            },
+            {
+                "assembly_thickness_m": 0.49400000000000005,
+                "material_name": "Insulation (Stone Wool)",
+                "material_url": "https://app.2050-materials.com/product/details_designer/steinull-stone-wool-insulation-20-75-kg-m3/",
+                "functional_unit": "m2",
+                "density_kg_per_m3": 73.4,
+                "material_quantity_fu_per_m2_of_assembly": 1.0
+            },
+            {
+                "assembly_thickness_m": 0.49400000000000005,
+                "material_name": "Steel Reinforcement",
+                "material_url": "https://app.2050-materials.com/product/details_designer/e-a-smith-as-smith-stal-steel-rebar/",
+                "functional_unit": "kg",
+                "density_kg_per_m3": 7870.0,
+                "material_volume_m3": 0.004,
+                "area_percentage__": 0.02,
+                "material_quantity_fu_per_m2_of_assembly": 31.48
+            },
+            {
+                "assembly_thickness_m": 0.49400000000000005,
+                "material_name": "Concrete",
+                "material_url": "https://app.2050-materials.com/product/details_designer/kvarnbacken-fresh-concrete/",
+                "functional_unit": "kg",
+                "density_kg_per_m3": 2400.0,
+                "thickness_m": 0.2,
+                "material_volume_m3": 0.2,
+                "area_percentage__": 0.98,
+                "material_quantity_fu_per_m2_of_assembly": 470.4
+            }
+        ]
+    },
+    {
+        "assembly_code": "R2",
+        "assembly_name": "Pitched CLT roof with hemp fibre insulation and clay tiles (570mm)",
+        "materials": [
+            {
+                "assembly_thickness_m": 0.574,
+                "material_name": "Clay Tiles",
+                "material_url": "https://app.2050-materials.com/product/details_designer/dachziegelwerke-nelskamp-gmbh-clay-roof-tiles/",
+                "functional_unit": "kg",
+                "density_kg_per_m3": 2150.0,
+                "thickness_m": 0.011,
+                "material_volume_m3": 0.011,
+                "material_quantity_fu_per_m2_of_assembly": 23.65
+            },
+            {
+                "assembly_thickness_m": 0.5740000000000001,
+                "material_name": "Timber Battens",
+                "material_url": "https://app.2050-materials.com/product/details_designer/stora-enso-kvh-r-structural-timber/",
+                "functional_unit": "m3",
+                "density_kg_per_m3": 562.0,
+                "thickness_m": 0.28,
+                "material_volume_m3": 0.07,
+                "area_percentage__": 0.25,
+                "material_quantity_fu_per_m2_of_assembly": 0.07
+            },
+            {
+                "assembly_thickness_m": 0.5740000000000001,
+                "material_name": "Subroof Membrane",
+                "material_url": "https://app.2050-materials.com/product/details_designer/soprema-group-texsalon-r-mp-1-5mm/",
+                "functional_unit": "m2",
+                "density_kg_per_m3": 933.0,
+                "thickness_m": 0.0015,
+                "material_volume_m3": 0.0015,
+                "material_quantity_fu_per_m2_of_assembly": 1.0
+            },
+            {
+                "assembly_thickness_m": 0.5740000000000001,
+                "material_name": "Subroof Membrane",
+                "material_url": "https://app.2050-materials.com/product/details_designer/soprema-group-texsalon-r-mp-1-5mm/",
+                "functional_unit": "m2",
+                "density_kg_per_m3": 933.0,
+                "thickness_m": 0.0015,
+                "material_volume_m3": 0.0015,
+                "material_quantity_fu_per_m2_of_assembly": 1.0
+            },
+            {
+                "assembly_thickness_m": 0.5740000000000001,
+                "material_name": "Hemp Fibre Insulation",
+                "material_url": "https://app.2050-materials.com/product/details_designer/ekolution-ab-hemp-fibre/",
+                "functional_unit": "m2",
+                "density_kg_per_m3": 330.0,
+                "material_volume_m3": 0.0,
+                "area_percentage__": 0.75,
+                "material_quantity_fu_per_m2_of_assembly": 0.75
+            },
+            {
+                "assembly_thickness_m": 0.5740000000000001,
+                "material_name": "Hemp Fibre Insulation",
+                "material_url": "https://app.2050-materials.com/product/details_designer/ekolution-ab-hemp-fibre/",
+                "functional_unit": "m2",
+                "density_kg_per_m3": 330.0,
+                "material_volume_m3": 0.0,
+                "area_percentage__": 0.75,
+                "material_quantity_fu_per_m2_of_assembly": 0.75
+            },
+            {
+                "assembly_thickness_m": 0.5740000000000001,
+                "material_name": "CLT Slab",
+                "material_url": "https://app.2050-materials.com/product/details_designer/klh-massivholz-gmbh-klh-cross-laminated-timber-clt/",
+                "functional_unit": "m3",
+                "density_kg_per_m3": 470.0,
+                "thickness_m": 0.28,
+                "material_volume_m3": 0.28,
+                "material_quantity_fu_per_m2_of_assembly": 0.28
+            }
+        ]
+    },
+    {
+        "assembly_code": "P1",
+        "assembly_name": "Brick partition wall with stone wool insulation (140mm)",
+        "materials": [
+            {
+                "assembly_thickness_m": 0.1449,
+                "material_name": "Brick",
+                "material_url": "https://app.2050-materials.com/product/details_designer/egernsund-wienerberger-a-s-yellow-and-sandcoloured-bricks-naturgasbaserede/",
+                "functional_unit": "kg",
+                "density_kg_per_m3": 1710.0,
+                "thickness_m": 0.054,
+                "material_volume_m3": 0.054,
+                "material_quantity_fu_per_m2_of_assembly": 92.34
+            },
+            {
+                "assembly_thickness_m": 0.14489999999999997,
+                "material_name": "Insulation (Stone Wool)",
+                "material_url": "https://app.2050-materials.com/product/details_designer/steinull-stone-wool-insulation-20-75-kg-m3/",
+                "functional_unit": "m2",
+                "density_kg_per_m3": 73.4,
+                "thickness_m": 0.06,
+                "material_quantity_fu_per_m2_of_assembly": 1.0
+            },
+            {
+                "assembly_thickness_m": 0.14489999999999997,
+                "material_name": "Plasterboard",
+                "material_url": "https://app.2050-materials.com/product/details_designer/usg-sheetrock-r-ecosmart-panels-firecode-r-30-western-us-9/",
+                "functional_unit": "kg",
+                "density_kg_per_m3": 521.0,
+                "thickness_m": 0.0159,
+                "material_volume_m3": 0.0159,
+                "material_quantity_fu_per_m2_of_assembly": 8.2839
+            },
+            {
+                "assembly_thickness_m": 0.14489999999999997,
+                "material_name": "Plaster",
+                "material_url": "https://app.2050-materials.com/product/details_designer/certainteed-inc-saint-gobain-light-weight-finishing-compound/",
+                "functional_unit": "m2",
+                "density_kg_per_m3": 1170.0,
+                "thickness_m": 0.015,
+                "material_volume_m3": 0.015,
+                "material_quantity_fu_per_m2_of_assembly": 1.0
+            }
+        ]
+    },
+    {
+        "assembly_code": "P2",
+        "assembly_name": "Timber frame partition wall with hemp fibre insulation (160mm)",
+        "materials": [
+            {
+                "assembly_thickness_m": 0.16,
+                "material_name": "CLT Frame",
+                "material_url": "https://app.2050-materials.com/product/details_designer/klh-massivholz-gmbh-klh-cross-laminated-timber-clt/",
+                "functional_unit": "m3",
+                "density_kg_per_m3": 470.0,
+                "thickness_m": 0.1,
+                "material_volume_m3": 0.1,
+                "area_percentage__": 0.33,
+                "material_quantity_fu_per_m2_of_assembly": 0.033
+            },
+            {
+                "assembly_thickness_m": 0.16,
+                "material_name": "Hemp Fibre Insulation",
+                "material_url": "https://app.2050-materials.com/product/details_designer/ekolution-ab-hemp-fibre/",
+                "functional_unit": "m2",
+                "density_kg_per_m3": 330.0,
+                "area_percentage__": 0.67,
+                "material_quantity_fu_per_m2_of_assembly": 0.67
+            },
+            {
+                "assembly_thickness_m": 0.16,
+                "material_name": "Interior Clay Plaster",
+                "material_url": "https://app.2050-materials.com/product/details_designer/clayworks-ltd-clayworks-smooth-clay-plaster/",
+                "functional_unit": "kg",
+                "density_kg_per_m3": 1550.0,
+                "thickness_m": 0.03,
+                "material_volume_m3": 0.03,
+                "material_quantity_fu_per_m2_of_assembly": 46.5
+            },
+            {
+                "assembly_thickness_m": 0.16,
+                "material_name": "Interior Clay Plaster",
+                "material_url": "https://app.2050-materials.com/product/details_designer/clayworks-ltd-clayworks-smooth-clay-plaster/",
+                "functional_unit": "kg",
+                "density_kg_per_m3": 1550.0,
+                "thickness_m": 0.03,
+                "material_volume_m3": 0.03,
+                "material_quantity_fu_per_m2_of_assembly": 46.5
+            }
+        ]
+    },
+    {
+        "assembly_code": "GD",
+        "assembly_name": "Double glazing windows",
+        "materials": [
+            {
+                "material_name": "Double glazing",
+                "material_url": "https://app.2050-materials.com/product/details_designer/riche-menuiserie-fenetre-en-bois-aluminium-menuiserie-riche-double-vitrage/",
+                "functional_unit": "m2",
+                "material_quantity_fu_per_m2_of_assembly": 1.0
+            }
+        ]
+    },
+    {
+        "assembly_code": "GT",
+        "assembly_name": "Triple glazing windows",
+        "materials": [
+            {
+                "material_name": "Triple glazing",
+                "material_url": "https://app.2050-materials.com/product/details_designer/riche-menuiserie-fenetre-en-bois-aluminium-menuiserie-riche-triple-vitrage/",
+                "functional_unit": "m2",
+                "material_quantity_fu_per_m2_of_assembly": 1.0
+            }
+        ]
+    }
+]
